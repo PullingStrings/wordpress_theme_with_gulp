@@ -1,0 +1,39 @@
+$backgroundColor: #e9ecef;
+$backgroundPadding: 10px;
+
+.main_product {
+  background-color: $backgroundColor;
+  padding: $backgroundPadding;
+}
+
+.products  {
+  background-color: $backgroundColor;
+  padding: $backgroundPadding;
+  h2 {
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  }
+}
+
+.options {
+  padding: 10px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.card {
+  border-radius: 0px;
+    .card-img-top {
+    border-radius: 0px;
+  }
+  .card-text {
+    text-align: left;
+  }
+}
+
+.info {
+  background-color: $backgroundColor;
+  padding: $backgroundPadding;
+}
