@@ -78,13 +78,16 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          1 of 3
+          <img src="" alt="">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
         </div>
         <div class="col">
-          2 of 3
+          <h3>Newsletters</h3>
+          <input type="text" name="Email" value="Email">
         </div>
         <div class="col">
-          3 of 3
+          <h3>Contact Us</h3>
+          <p>Your address or <br/>contact info gors here</p>
         </div>
       </div>
     </div>
